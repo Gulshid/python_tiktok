@@ -12,3 +12,8 @@
             # 11. Multiple way to Define Incre / Decre
             # 12. Type Casting in Python
             # 13. Escape Sequences , different way to display the value in print, in one how display two print (end method), identation
+            
+#  lecture 2: Python Installation           
+#   1. python download
+#   2. vs code download
+#   3. python extension installed

@@ -24,4 +24,4 @@
 
 # 12. Write a Program for find the Area of Circle , Triangle, Rectangle
 
-# 13 Write a Program for Conversion of Celsius and Fahrenheit with each Other
+# 13 Write a Program for Conversion of Celsius and Fahrenheit with each Otherx

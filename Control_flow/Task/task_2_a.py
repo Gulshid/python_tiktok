@@ -10,9 +10,8 @@ if num % 2 == 0: # even logic
 
 if num % 2 == 1: # odd logic
     print(f"The Number {num} is Odd Number ")
-    
 
-print("\n")
-#2. Find even & odd numbers using if condition inside loop
 
+
+        
     #3. Find even & odd numbers using list slicing / step / modulus (second method)

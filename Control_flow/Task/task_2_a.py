@@ -13,5 +13,3 @@ if num % 2 == 1: # odd logic
 
 
 
-        
-    #3. Find even & odd numbers using list slicing / step / modulus (second method)
